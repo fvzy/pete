@@ -13,9 +13,9 @@
 Background Animation Login Page
 ///////////////////////////
 /*/
-@media only screen and (min-width: 1250px) {
+
 	.body {
-	background-color: #1E2235 !important;
+background-color: transparent !important;
 }
  .fullscreen-video-background {
 	 background: #000;
@@ -56,8 +56,8 @@ Background Animation Login Page
 	 height: 300vh;
 	 width: 120vw;
 }
-}
-@media only screen and (max-width: 1250px) {
+
+
   .bg-neutral-900 {
     background: #161624 !important;
     background-size: cover;
@@ -76,8 +76,6 @@ Background Animation Login Page
 }
  .fullscreen-video-background #_youtube-iframe-wrapper #_youtube-iframe {
 	 display: none;
-}
-
 }
  
 	</style>
